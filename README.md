@@ -79,6 +79,7 @@
 ####  https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation (DOM Manipulation)
 ####  https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/ (DOM Manipulation)
 ####  https://www.javascripttutorial.net/javascript-fetch-api/#:~:text=The%20Fetch%20API%20allows%20you,resolve%20into%20the%20actual%20data. (Fetch API)
+####  https://drive.google.com/file/d/1VzyvHxpBfINaI0dZhISUHRZ_CfsU1Jqt/view?usp=drivesdk (Fetch API)
 ####  https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/ (ES6)
 ####  https://www.javascripttutorial.net/es6/ (ES6)
 ####  https://javascript.info/ (Overview)
